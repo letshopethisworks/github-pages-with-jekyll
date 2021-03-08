@@ -1,13 +1,16 @@
+ 
+---
+title: "THIS IS SO SHITE"
+date: 2021/03/08
+---
+
+
 title: GitHub Page  
 author: Your Mum
 email: your-mum@isaslag.com
 description: > # this means to ignore newlines until "baseurl:"
  Your mum
- 
- ---
-title: "THIS IS SO SHITE"
-date: 2021/03/08
----
+
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
